@@ -402,7 +402,7 @@ This system can help organizations:
 
 ## Author
 
-**Hasitha Karrunarathne**  
+**Hasitha Karunarathne**  
 MSc Data Science
 
 Focus areas: Data Science, Data Engineering, NLP, Information Retrieval, ML Systems, Analytics, and AI-enabled decision support.
